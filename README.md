@@ -12,6 +12,6 @@
 
 ## Screenshot
 
-![Build Console O/P 1](../ss.png)
+![Build Console O/P 1](./ss.png)
 
-![Build Console O/P 2](../ss2.png)
+![Build Console O/P 2](./ss2.png)
